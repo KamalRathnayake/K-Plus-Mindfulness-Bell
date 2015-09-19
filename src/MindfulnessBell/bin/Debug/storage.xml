@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<storage>
+  <settings>
+    <setting key="INTERVAL_MINS">5</setting>
+    <setting key="DISPLAY_TIME_SECS">2</setting>
+    <setting key="WINDOWS_TIME">False</setting>
+    <setting key="24HOUR_MODE">False</setting>
+    <setting key="OPACITY">0.1</setting>
+    <setting key="BACK_COLOR_R">64</setting>
+    <setting key="BACK_COLOR_G">0</setting>
+    <setting key="BACK_COLOR_B">64</setting>
+  </settings>
+</storage>
